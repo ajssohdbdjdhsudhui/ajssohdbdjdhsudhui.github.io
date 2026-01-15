@@ -1,9 +1,9 @@
 const cacheName = "Castergllw-Hanoi's Tower-0.1";
 const contentToCache = [
     "Build/BuildWebGL.loader.js",
-    "Build/BuildWebGL.framework.js.br",
-    "Build/BuildWebGL.data.br",
-    "Build/BuildWebGL.wasm.br",
+    "Build/BuildWebGL.framework.js.unityweb",
+    "Build/BuildWebGL.data.unityweb",
+    "Build/BuildWebGL.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
