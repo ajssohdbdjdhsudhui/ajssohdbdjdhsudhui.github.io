@@ -102,7 +102,8 @@
         }).then((unityInstance) => {
           loadingBar.style.display = "none";
         }).catch((message) => {
-          alert(message);
+          // alert(message);
+		  loadingBar.style.display = "none";
         });
       };
       document.body.appendChild(script);
